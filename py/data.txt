@@ -1,0 +1,10 @@
+A DDoS (Distributed Denial-of-Service) attack 
+is a cyberattack where attackers overwhelm a server, 
+service, or network with a flood of malicious internet 
+traffic, making it unavailable to legitimate users. 
+This is done by using a network of compromised computers, 
+or botnet, to send more requests than the target can handle, 
+causing it to slow down or crash. 
+The motivations for these attacks vary, 
+including causing disruption, 
+financial gain, extortion, or political reason
