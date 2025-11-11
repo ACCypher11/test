@@ -110,7 +110,7 @@ class DatabaseManager:
 
 
 def display_menu():
-    """DIisplay the main menu"""
+    """Display the main menu"""
     print("\n" + "="*40)
     print("          DATABASE MANAGER")
     print("="*40)
